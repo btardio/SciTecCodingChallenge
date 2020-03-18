@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/btardio/Projects/scitec/SciTecCodingChallenge/LLAtoECEF/LLAtoECEF.cpp
+iostream
+-
+fstream
+-
+curlpp/cURLpp.hpp
+-
+curlpp/Easy.hpp
+-
+curlpp/Options.hpp
+-
+curlpp/Exception.hpp
+-
+LLAtoECEF.hpp
+/home/btardio/Projects/scitec/SciTecCodingChallenge/LLAtoECEF/LLAtoECEF.hpp
+
+/home/btardio/Projects/scitec/SciTecCodingChallenge/LLAtoECEF/LLAtoECEF.hpp
+iostream
+-
+vector
+-
+curlpp/cURLpp.hpp
+-
+curlpp/Easy.hpp
+-
+

@@ -1,0 +1,3 @@
+/home/btardio/Projects/scitec/SciTecCodingChallenge/LLAtoECEF/CMakeFiles/rebuild_cache.dir
+/home/btardio/Projects/scitec/SciTecCodingChallenge/LLAtoECEF/CMakeFiles/LLAtoECEF.dir
+/home/btardio/Projects/scitec/SciTecCodingChallenge/LLAtoECEF/CMakeFiles/edit_cache.dir
